@@ -1,0 +1,1 @@
+ C:\\Users\\VitalyRybakov\\Documents\\Newprogram\\sportmanager\\.dart_tool\\flutter_build\\e348b08ac17f97998cb4b369869f5003\\native_assets.yaml: 

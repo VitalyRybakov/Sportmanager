@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332010826312",
+    "project_id": "sportmanager-sp",
+    "storage_bucket": "sportmanager-sp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332010826312:android:50dc74d310099ec08dc67d",
+        "android_client_info": {
+          "package_name": "com.example.sportmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332010826312-qhbisnfje8jfd7hmhdlpv47iim6ue8ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDsQoIwCxXB7c7K2QJjUjYn1_gjCHQldw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332010826312-qhbisnfje8jfd7hmhdlpv47iim6ue8ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
